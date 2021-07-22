@@ -1,0 +1,12 @@
+*.log
+env
+venv
+.run
+files
+.idea
+*cache*
+*.log.zip
+*.lock
+*.db*
+
+*.toml
